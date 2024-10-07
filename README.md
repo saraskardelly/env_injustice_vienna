@@ -31,3 +31,8 @@ To run the analysis:
 - Analyze X
 - Calculate X
 
+
+## NDVI
+
+
+
